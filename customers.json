@@ -1,0 +1,181 @@
+[
+    {
+        "fname": "David",
+        "lname": "White",
+        "address": [
+            "60",
+            "Holborn Viaduct",
+            "London",
+            "EC1A 2FD"
+        ],
+        "account_no": 1235,
+        "balance": 6386.0,
+        "type": "basic"
+    },
+    {
+        "fname": "Alice",
+        "lname": "Churchil",
+        "address": [
+            "5",
+            "Cardigan Street",
+            "Birmingham",
+            "B4 7BD"
+        ],
+        "account_no": 1236,
+        "balance": 16991.0,
+        "type": "basic"
+    },
+    {
+        "fname": "Ali",
+        "lname": "Abdallah",
+        "address": [
+            "44",
+            "Churchill Way West",
+            "Basingstoke",
+            "RG21 6YR"
+        ],
+        "account_no": 1237,
+        "balance": 40.0,
+        "type": "basic"
+    },
+    {
+        "fname": "sony",
+        "lname": "paidi",
+        "address": [
+            "1234",
+            "uyg",
+            "7yt",
+            "9876"
+        ],
+        "account_no": 1238,
+        "balance": 3000.0,
+        "type": "advanced",
+        "overdraft": 1.0
+    },
+    {
+        "fname": "snehitha",
+        "lname": "vlogo",
+        "address": [
+            "abc",
+            "1234",
+            "hbhv",
+            "987"
+        ],
+        "account_no": 1241,
+        "balance": 7200.0,
+        "type": "savings",
+        "interest": 3.0
+    },
+    {
+        "fname": "kurli",
+        "lname": "Rama",
+        "address": [
+            "67",
+            "jnhbg",
+            "bony",
+            "67"
+        ],
+        "account_no": 1242,
+        "balance": 7300.0,
+        "type": "savings",
+        "interest": 3.0
+    },
+    {
+        "fname": "durgam",
+        "lname": "siddu",
+        "address": [
+            "23",
+            "nile",
+            "mkg",
+            "45"
+        ],
+        "account_no": 1243,
+        "balance": 5000.0,
+        "type": "advanced",
+        "overdraft": 4.0
+    },
+    {
+        "fname": "Mayuri",
+        "lname": "p",
+        "address": [
+            "H",
+            "S",
+            "C",
+            "P"
+        ],
+        "account_no": 1244,
+        "balance": 9000.0,
+        "type": "advanced",
+        "overdraft": 500
+    },
+    {
+        "fname": "pai",
+        "lname": "pai",
+        "address": [
+            "09876",
+            "987yt",
+            "ij",
+            "0987"
+        ],
+        "account_no": 1245,
+        "balance": 10000.0,
+        "type": "advanced",
+        "overdraft": 1.0
+    },
+    {
+        "fname": "Sri",
+        "lname": "m",
+        "address": [
+            "89",
+            "oiuytd",
+            "ijhgv",
+            "2bbhg87"
+        ],
+        "account_no": 1246,
+        "balance": 1000.0,
+        "type": "advanced",
+        "overdraft": 500
+    },
+    {
+        "fname": "prakash",
+        "lname": "GV",
+        "address": [
+            "oihgf",
+            "oiuh",
+            "oiuytre",
+            "9876"
+        ],
+        "account_no": 1247,
+        "balance": 1000.0,
+        "type": "advanced",
+        "overdraft": 500
+    },
+    {
+        "fname": "dora",
+        "lname": "disney",
+        "address": [
+            "9876",
+            "987tgb",
+            "kjh",
+            "jb"
+        ],
+        "account_no": 1248,
+        "balance": 3455.0,
+        "type": "savings",
+        "interest": 2.0
+    },
+    {
+        "fname": "Adam",
+        "lname": "Smith",
+        "address": [
+            "34",
+            "kk ",
+            "rt",
+            "35"
+        ],
+        "account_no": 1249,
+        "balance": 13333.0,
+        "type": "advanced",
+        "overdraft": 2.0
+    }
+]
